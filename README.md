@@ -6,7 +6,7 @@
 
 **negrito** ou __negrito__
 
-___ negrito e italico___
+___ negrito e italico__
 
 - Lista 1
 - Lista 2
