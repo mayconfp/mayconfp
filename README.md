@@ -26,7 +26,9 @@
 | Cursos | Certificados |
 |-------- | ---------------- |
 | Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/VSH3JI59.pdf)
-|Gestão de Projetos e Fundamentos de métodos Agile|
+
+--------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **mayconfp/mayconfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
