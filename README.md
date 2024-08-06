@@ -28,7 +28,7 @@
 | Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/VSH3JI59.pdf)
 
 --------
-![Maycon Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Maycon Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfelipe&show_icons=true&theme=radical)
 
 <!--
 **mayconfp/mayconfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
