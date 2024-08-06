@@ -2,13 +2,15 @@
 
 <!-- Cabeçalhos -->
 
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+*italico* ou _italico_
 
+**negrito** ou __negrito__
+
+___ negrito e italico___
+
+- Lista 1
+- Lista 2
+  - Sublista  
 
 <!--
 **mayconfp/mayconfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
