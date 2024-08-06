@@ -9,6 +9,7 @@
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/maycon-felipe-ba6939304/)
 
+📫 [E-mail](felipemaycon266@gmail.com)
 -----
 
 ## Minhas Tecnologias
