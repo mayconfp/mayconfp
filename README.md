@@ -13,6 +13,21 @@
 
 ## Minhas Tecnologias
 
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="100px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100px">
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px">
+
+
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px">
+
+------
+| Cursos | Certificados |
+|-------- | ---------------- |
+| Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/VSH3JI59.pdf)
+|Gestão de Projetos e Fundamentos de métodos Agile|
+
 <!--
 **mayconfp/mayconfp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
