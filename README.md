@@ -20,7 +20,7 @@
 
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="100px">
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100px">
+<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px">
 
 ------
 | Cursos | Certificados |
