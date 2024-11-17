@@ -5,7 +5,7 @@
 
 👽 Olá, me chamo Maycon Felipe!
 
-🎒 Estudante de Backend em Análise e Desenvolvimento de Sistemas, com foco em Java e tecnologias relacionadas.
+🎒 Estudante em Análise e Desenvolvimento de Sistemas, com foco em Java, SpringBoot, MySQL e tecnologias relacionadas.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/maycon-felipe-ba6939304/)
 
