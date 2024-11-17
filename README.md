@@ -22,12 +22,10 @@
 </p>
 
 ------
-| Cursos | Certificados |
-|-------- | ---------------- |
-| Príncipios do Git e Github |[Certificado](https://hermes.dio.me/certificates/VSH3JI59.pdf)
+
+![Maycon Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=radical)
 
 --------
-![Maycon Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=radical)
 >
 
 <!--
