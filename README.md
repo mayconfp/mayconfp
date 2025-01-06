@@ -5,7 +5,7 @@
 
 👽 Olá, me chamo Maycon Felipe!
 
-🎒 Estudante em Análise e Desenvolvimento de Sistemas, com foco em Java, SpringBoot, MySQL e tecnologias relacionadas.
+🎒 Estudante em Análise e Desenvolvimento de Sistemas, com foco em Python e framework Django, PostgreSQL, versionamento de código. Engenharia de prompots. E tecnologias relacionads.
 
 📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/maycon-felipe-ba6939304/)
 
