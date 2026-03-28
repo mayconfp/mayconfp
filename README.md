@@ -10,7 +10,7 @@ Engenheiro de Software focado em construir aplicações web com agentes intelige
 * 🔭 **No dia a dia:** Trabalho com Python (FastAPI/Django), React e TypeScript.
 * 🧠 **Especialidade:** Agentes de IA (Agno/LangChain) com foco em **tool calling** para consumo de serviços e automação de processos.
 * ⚙️ **Infra:** Orquestração de tarefas pesadas com Celery e sistemas SaaS (Stripe).
-* 📫 [LinkedIn](https://www.linkedin.com/in/maycon-felipe-ba6939304/) | [E-mail: mayconfe19@gmail.com](mailto:mayconfe19@gmail.com)
+* 📫 [LinkedIn](https://www.linkedin.com/in/maycon-felipe-ba6939304/) | [E-mail](mailto:mayconfe19@gmail.com)
 
 -----
 
