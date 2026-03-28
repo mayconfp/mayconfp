@@ -29,6 +29,6 @@ Engenheiro de Software focado em construir aplicações web com agentes intelige
 
 ------
 
-![Maycon Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=radical)
+![Maycon Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconfp&show_icons=true&theme=radical&count_private=true)
 
 --------
