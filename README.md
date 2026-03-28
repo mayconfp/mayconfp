@@ -16,7 +16,7 @@ Engenheiro de Software focado em construir aplicações web com agentes intelige
 
 ### 🚀 Projetos em Destaque
 
-* **[Homin Saúde](https://www.hominsaude.cloud/chat):** Agente de IA especializado em saúde masculina desenvolvido com o framework **Agno**. Implementei uma arquitetura de busca híbrida que utiliza **ChromaDB** para RAG local e **DuckDuckGoTools** para pesquisas web autônomas. O sistema utiliza lógica de *scoring* vetorial para decidir dinamicamente se deve usar a base de conhecimento interna ou buscar informações em tempo real na web.
+* **[Homin Saúde](https://www.hominsaude.cloud/):** Agente de IA especializado em saúde masculina desenvolvido com o framework **Agno**. Implementei uma arquitetura de busca híbrida que utiliza **ChromaDB** para RAG local e **DuckDuckGoTools** para pesquisas web autônomas. O sistema utiliza lógica de *scoring* vetorial para decidir dinamicamente se deve usar a base de conhecimento interna ou buscar informações em tempo real na web.
 
 -----
 
