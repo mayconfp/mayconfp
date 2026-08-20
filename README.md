@@ -18,6 +18,7 @@ Engenheiro de Software focado em construir aplicações web com agentes intelige
 
 * **[Homin Saúde](https://www.hominsaude.cloud/):** Agente de IA especializado em saúde masculina desenvolvido com o framework **Agno**. Implementei uma arquitetura de busca híbrida que utiliza **ChromaDB** para RAG local e **DuckDuckGoTools** para pesquisas web autônomas. O sistema utiliza lógica de *scoring* vetorial para decidir dinamicamente se deve usar a base de conhecimento interna ou buscar informações em tempo real na web.
 
+* **[Seatify Events](https://seatify-events.vercel.app/):** Plataforma full-stack de gerenciamento de eventos e venda de ingressos desenvolvida com **FastAPI** e **React**. O foco principal foi a construção de um back-end resiliente e a aplicação de alguns conceitos de segurança, implementando criptografia simétrica com **Fernet** para geração e validação de QR codes invioláveis, prevenção de vendas duplas via bloqueio de concorrência no banco de dados (`SELECT FOR UPDATE`), controle de idempotência para transações de pagamento (Stripe) e estratégias de **Rate Limiting** para proteção de rotas. Conta com controle de acesso baseado em papéis (Organizador, Cliente e Portaria) e validação temporal estrita de check-in.
 -----
 
 ---
