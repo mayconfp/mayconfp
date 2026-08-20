@@ -24,29 +24,15 @@ Engenheiro de Software focado em construir aplicações web com agentes intelige
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" title="Python" alt="Python">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" title="FastAPI" alt="FastAPI">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="50" title="Django" alt="Django">
-
-  <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" title="TypeScript" alt="TypeScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" title="React" alt="React">
-
-  <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" alt="PostgreSQL">
-
-  <!-- Infrastructure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB" alt="MongoDB">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker">
-
-  <!-- AI -->
   <img src="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-dark.svg" width="90" title="Agno Framework" alt="Agno Framework">
+  <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="50" title="Qdrant" alt="Qdrant">
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/images/chroma.svg" width="50" title="ChromaDB" alt="ChromaDB">
 </p>
-
-**IA & LLMs:** Agno · LangChain · RAG · LLMs · MCP · Tool Calling
-
-**Vector Databases:** ChromaDB · Qdrant
-
-**Backend & Infra:** Python · FastAPI · Django · PostgreSQL · MongoDB · Celery · Docker · Stripe
-
-**Frontend:** React · TypeScript
