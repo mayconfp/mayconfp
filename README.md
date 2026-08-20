@@ -34,6 +34,4 @@ Engenheiro de Software focado em construir aplicações web com agentes intelige
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" title="Docker" alt="Docker">
   <img src="https://agno-public.s3.us-east-1.amazonaws.com/assets/logo-dark.svg" width="90" title="Agno Framework" alt="Agno Framework">
   <img src="https://raw.githubusercontent.com/qdrant/qdrant/master/docs/logo.svg" width="50" title="Qdrant" alt="Qdrant">
-  <img src="./assets/chroma.svg" width="50" title="ChromaDB" alt="ChromaDB">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/celery/celery-original.svg" width="50" title="Celery" alt="Celery">
 </p>
